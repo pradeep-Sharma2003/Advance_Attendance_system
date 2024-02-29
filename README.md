@@ -1,1 +1,1 @@
-<h1><ul><li><Advance Attendance System</li> </h1>
+<h1><li><Advance Attendance System</h1>
